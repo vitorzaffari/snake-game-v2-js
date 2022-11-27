@@ -7,7 +7,7 @@ This version used the 'canvas' element to create the board instead of regular di
 highest score which is place in your local storage.<br><br>
 
 <em>I found this project on Youtube from Code Explained. The credit belongs to them, this was only made for practice purposes.<br>
-Code Explained git : https://github.com/CodeExplainedRepo<br>
+Code Explained git : https://github.com/CodeExplainedRepo </em><br>
 
 
 <img src='teste.gif'/><br><br>
@@ -20,4 +20,4 @@ Essa versão utilizou o elemento 'canvas' ao contrário da primeira que utilizav
  que ficam guardados no armazenamento local.<br><br>
 
 <em>Encontrei esse projeto no Youtube no canal Code Explained. O crédito pertence a eles, este projeto foi feito somente para praticar JS.<br>
-Code Explained git : https://github.com/CodeExplainedRepo
+Code Explained git : https://github.com/CodeExplainedRepo </em>
