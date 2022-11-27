@@ -19,5 +19,5 @@ Code Explained git : https://github.com/CodeExplainedRepo<br>
 This version used the 'canvas' element to create the board instead of regular divs. It shows your current score and your
 highest score which is place in your local storage.<br><br>
 
-<em>I found this project on Youtube from Code Explained. The credit belongs to them, this was only made for practice purposes.<br>
-Code Explained git : https://github.com/CodeExplainedRepo<br>
+<em>Encontrei esse projeto no Youtube no canal Code Explained. O crédito pertence a eles, este projeto foi feito somente para praticar JS.<br>
+Code Explained git : https://github.com/CodeExplainedRepo
